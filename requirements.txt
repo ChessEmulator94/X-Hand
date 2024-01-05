@@ -1,0 +1,7 @@
+tk
+customtkinter
+Pillow
+numpy
+opencv-python
+imageio
+Pmw
